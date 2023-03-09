@@ -9,7 +9,7 @@
 
 <ul>
   <li>🔭 Actualmente estoy enfocado en mi formación académica y en mejorar mis habilidades en programación y análisis de datos.</li>
-  <li>🌱 Estoy aprendiendo sobre el análisis de datos con Pandas, Matploit y el manejo de datos en Oracle Cloud.</li>
+  <li>🌱 Estoy aprendiendo sobre el análisis de datos con Pandas, Matplotlib y el análisis de datos.</li>
   <li>💻 Me siento interesado en trabajar con Python, Pandas, Matplotlib, HTML/CSS y Git.</li>
   <li>🎓 Recientemente completé un curso sobre Power BI y estoy interesado en aplicar esta herramienta en la visualización y análisis de datos.</li>
 </ul>
