@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola a todos! 👋</h1>
 
 <p align="center">
-  Soy Pedro, un estudiante de Ingeniería de Sistemas apasionado por la tecnología y siempre buscando nuevos desafíos y oportunidades para aprender. </br>
+  Soy Pedro, un estudiante de Ingeniería de Sistemas de la Información apasionado por la tecnología y siempre buscando nuevos desafíos y oportunidades para aprender. </br>
   Aquí puedes encontrar más información sobre mí y mis intereses.
 </p>
 
