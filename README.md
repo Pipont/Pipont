@@ -1,66 +1,134 @@
-<h1 align="center">¡Hola a todos! 👋</h1>
+<!DOCTYPE html>
+<html lang="es">
 
-<p align="center">
-  Soy Pedro, un estudiante de Ingeniería de Sistemas de la Información apasionado por la tecnología y siempre buscando nuevos desafíos y oportunidades para aprender. </br>
-  Aquí puedes encontrar más información sobre mí y mis intereses.
-</p>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil de Pedro</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
 
-<h2 align="center">Acerca de mí</h2>
+        h1, h2, p {
+            color: #333;
+            text-align: center;
+        }
 
-<ul>
-  <li>🔭 Actualmente estoy enfocado en mi formación académica y en mejorar mis habilidades en programación y análisis de datos.</li>
-  <li>🌱 Estoy aprendiendo sobre el análisis de datos con Pandas, Matplotlib.</li>
-  <li>💻 Me siento interesado en trabajar con Python, Pandas, Matplotlib, HTML/CSS y Git.</li>
-  <li>🎓 Recientemente completé un curso sobre Power BI y estoy interesado en aplicar esta herramienta en la visualización y análisis de datos.</li>
-</ul>
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
 
-<h2 align="center">Intereses en el desarrollo 🚀</h2>
+        li {
+            margin-bottom: 10px;
+        }
 
-<ul>
-  <li>💻 Desarrollo de proyectos que involucren la aplicación de técnicas de análisis de datos y estadística con impacto social.</li>
-  <li>🤝 Colaboración con otros profesionales en el área de la tecnología para resolver problemas complejos y crear soluciones innovadoras.</li>
-  <li>📈 Utilización de mis habilidades en programación y análisis de datos para ayudar en la toma de decisiones y la mejora de procesos.</li>
-</ul>
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+        }
 
-<h2 align="center">Tecnologías que utilizo</h2>
+        table, th, td {
+            border: 1px solid #ddd;
+        }
 
-<table align="center">
-  <tr>
-    <td>Python 🐍</td>
-    <td><img src="https://skillicons.dev/icons?i=py&theme=light"/></td>
-    <td>
-      <ul>
-        <li>Pandas 🐼</li>
-        <li>Matplotlib 📈</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>HTML/CSS 💻</td>
-    <td><img src="https://skillicons.dev/icons?i=html,css&theme=light"/></td>
-  </tr>
-  <tr>
-    <td>Git 🌳</td>
-    <td><img src="https://skillicons.dev/icons?i=git&theme=light"/></td>
-  </tr>
-  <tr>
-    <td>MySQL 🎲</td>
-    <td><img src="https://skillicons.dev/icons?i=mysql&theme=light"/></td>
-  </tr>
-</table>
+        th, td {
+            padding: 15px;
+            text-align: left;
+        }
 
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
 
-<h2 align="center">Por aprender</h2>
-<table align="center" style="display: inline-table;">
-  <tr>
-    <td style="display: inline-block; margin: 10px;"><b>Django</b><br><td><img src="https://skillicons.dev/icons?i=django&theme=light"/></td></td>
-    <td style="display: inline-block; margin: 10px;"><b>Oracle Cloud</b><br><td><img src="https://img.shields.io/badge/Oracle%20Cloud-%23F80000.svg?&style=flat-square&logo=oracle&logoColor=white" /></td></td>
-    <td style="display: inline-block; margin: 10px;"><b>AWS</b><br><td><img src="https://skillicons.dev/icons?i=aws&theme=light"/></td></td>
-    <td style="display: inline-block; margin: 10px;"><b>Azure</b><br><td><img src="https://skillicons.dev/icons?i=azure&theme=light"/></td></td>
-    <td style="display: inline-block; margin: 10px;"><b>R</b><br><td><img src="https://skillicons.dev/icons?i=r&theme=light"/></td></td>
-  </tr>
-</table>
+        img {
+            width: 30px;
+            height: auto;
+        }
 
-¡Gracias por visitar mi perfil! Si quieres saber más sobre mi trabajo, no dudes en contactarme. 😊
+        p {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
 
+<body>
+    <h1>¡Saludos a todos! 👋</h1>
 
+    <p>Soy Pedro, un apasionado estudiante de Ingeniería de Sistemas de la Información con un ferviente interés en la tecnología. Mi compromiso con el aprendizaje continuo me impulsa a buscar desafíos en constante evolución. A continuación, encontrarás más detalles sobre mi perfil y mis áreas de interés.</p>
+
+    <h2>Acerca de mí</h2>
+
+    <ul>
+        <li>🔭 Mi enfoque actual se centra en mi formación académica, donde busco constantemente mejorar mis habilidades en programación y análisis de datos.</li>
+        <li>🌱 Me encuentro inmerso en el aprendizaje activo de técnicas avanzadas de análisis de datos con Pandas y exploración visual con Matplotlib.</li>
+        <li>💻 Mi pasión radica en trabajar con Python, especialmente en proyectos que involucren tecnologías como Pandas, Matplotlib, HTML/CSS y Git.</li>
+        <li>🎓 Recientemente, he completado un curso sobre Power BI, despertando mi interés por aplicar esta herramienta en la visualización y análisis de datos de manera impactante.</li>
+    </ul>
+
+    <h2>Intereses en el Desarrollo 🚀</h2>
+
+    <ul>
+        <li>💻 Desarrollar proyectos que utilicen técnicas avanzadas de análisis de datos y estadísticas con un enfoque en generar un impacto social positivo.</li>
+        <li>🤝 Colaborar con profesionales del ámbito tecnológico para abordar problemas complejos y diseñar soluciones innovadoras.</li>
+        <li>📈 Aplicar mis habilidades en programación y análisis de datos para contribuir significativamente a la toma de decisiones y la mejora de procesos.</li>
+    </ul>
+
+    <h2>Tecnologías que Utilizo</h2>
+
+    <table>
+        <tr>
+            <th>Tecnología</th>
+            <th>Icono</th>
+            <th>Detalle</th>
+        </tr>
+        <tr>
+            <td>Python 🐍</td>
+            <td><img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python"/></td>
+            <td>
+                <ul>
+                    <li>Pandas 🐼</li>
+                    <li>Matplotlib 📈</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>HTML/CSS 💻</td>
+            <td><img src="https://skillicons.dev/icons?i=html,css&theme=light" alt="HTML/CSS"/></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Git 🌳</td>
+            <td><img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git"/></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>MySQL 🎲</td>
+            <td><img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL"/></td>
+            <td></td>
+        </tr>
+    </table>
+
+    <h2>En Mi Lista de Aprendizaje</h2>
+
+    <table>
+        <tr>
+            <td><b>Django</b><br><img src="https://skillicons.dev/icons?i=django&theme=light" alt="Django"/></td>
+            <td><b>Oracle Cloud</b><br><img src="https://img.shields.io/badge/Oracle%20Cloud-%23F80000.svg?&style=flat-square&logo=oracle&logoColor=white" alt="Oracle Cloud"/></td>
+            <td><b>AWS</b><br><img src="https://skillicons.dev/icons?i=aws&theme=light" alt="AWS"/></td>
+            <td><b>Azure</b><br><img src="https://skillicons.dev/icons?i=azure&theme=light" alt="Azure"/></td>
+            <td><b>R</b><br><img src="https://skillicons.dev/icons?i=r&theme=light" alt="R"/></td>
+        </tr>
+    </table>
+
+    <p>¡Agradezco tu visita a mi perfil! Si estás interesado en conocer más sobre mi trabajo, no dudes en ponerte en contacto conmigo. 😊</p>
+</body>
+
+</html>
