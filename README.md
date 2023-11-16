@@ -20,7 +20,11 @@ Soy Pedro, un estudiante de Ingeniería de Sistemas de la Información apasionad
 
 ## Mi Actividad
 <div>
+
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Pipont&show_icons=true&theme=tokyonight&locale">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipont&layout=compact&hide=jupyter%20notebook"
+  <br>
+    <center>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipont&layout=compact&theme=tokyonight&hide=jupyter%20notebook"
+   </center>
 </div>
 
