@@ -7,8 +7,6 @@ Soy Pedro, un estudiante de Ingeniería de Sistemas de la Información apasionad
 - 🔭 Actualmente enfocado en mi formación académica, mejorando mis habilidades en programación y análisis de datos.
 - 🌱 Aprendiendo sobre el análisis de datos con Pandas y la visualización con Matplotlib.
 - 💻 Interesado en trabajar con Python, Pandas, Matplotlib, HTML/CSS y Git.
-- 🎓 Recientemente completé un curso sobre Power BI y estoy explorando su aplicación en la visualización y análisis de datos.
-
 ## Intereses en el desarrollo 🚀
 
 - 💻 Desarrollo de proyectos que apliquen técnicas de análisis de datos y estadística con impacto social.
@@ -17,6 +15,18 @@ Soy Pedro, un estudiante de Ingeniería de Sistemas de la Información apasionad
 
 ## Tecnologías utilizadas
 
+<div>
+  <div>
+    <h3>Recientemente</h3>
+    <a align="center">
+      <img src="https://skillicons.dev/icons?i=py,gcp,flask,raspberrypi,sass,spring,mysql,postgres&perline=4"></img>
+    </a>
+  </div>
+  <div>
+    <h3>Anteriormente</h3>
+      <img src="https://skillicons.dev/icons?i=aws,c,cpp,bootstrap,cs&perline=4"></img>
+  </div>
+</div>
 
 ## Mi Actividad
 <div>
