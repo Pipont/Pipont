@@ -16,25 +16,21 @@ Soy Pedro, un estudiante de Ingeniería de Sistemas de la Información apasionad
 ## Tecnologías utilizadas
 
 <div>
-  <div>
+  <div align="center">
     <h3>Recientemente</h3>
     <a align="center">
       <img src="https://skillicons.dev/icons?i=py,gcp,flask,raspberrypi,sass,spring,mysql,postgres&perline=4"></img>
     </a>
   </div>
-  <div>
+  <div align="center">
     <h3>Anteriormente</h3>
       <img src="https://skillicons.dev/icons?i=aws,c,cpp,bootstrap,cs&perline=4"></img>
   </div>
 </div>
 
 ## Mi Actividad
-<div>
-
+<div align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Pipont&show_icons=true&theme=tokyonight&locale">
-  <br>
-    <center>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipont&layout=compact&theme=tokyonight&hide=jupyter%20notebook"
-   </center>
 </div>
 
